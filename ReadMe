@@ -1,0 +1,37 @@
+# Project Title
+
+Harvard's Artifacts Collection
+
+## 🚀 Features
+
+-Dropdown to select a classification(Ex: Coins, paintings, scriptures, jewellery,Drawings etc..)
+Collect a minimum of 2500 records for every classification.
+
+-Buttons
+Collect Data → fetch from API
+Show Data → display fetched records
+Insert into SQL → store data into SQL table
+
+-Query & Visualization Section
+Pre-written query options in a selectbox
+Button to Run Query
+Display results in a table(mandatory) or chart(optional)
+
+## 📸 Screenshots
+
+
+
+## 🛠️ Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/yourproject.git
+
+# Go into the project directory
+cd yourproject
+
+# Install dependencies
+npm install  # or pip install -r requirements.txt or yarn install
+
+# Run the app
+npm start  # or python app.py or other command
